@@ -1,0 +1,11 @@
+glass:[EX01]1x1,(0,0)B0,
+deepGlass:[EX02]1x1,(0,0)B0,
+ice:[EX03]1x1,(0,0)B0,
+tree1:[EX04]1x2,(0,0)F1,(0,1)B1<1111>,
+END:
+
+
+// "name":["serial code"]"width"x"height","Vertex Informations,"
+//                          ("x","y")"position""rank",...
+//                                                   <0:air 1:wall>,...
+// finish -> END:  
